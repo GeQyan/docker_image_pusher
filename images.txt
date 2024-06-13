@@ -4,3 +4,26 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
+donknap/dpanel:latest
+alexta69/metube:latest
+linuxserver/emby:latest
+linuxserver/jellyfin:latest
+b3log/siyuan:latest
+xiaoyaliu/alist:latest
+emby/embyserver:latest
+xhofe/alist:latest
+dushixiang/guacd:latest
+hslr/sun-panel:latest
+6053537/portainer-ce:latest
+portainer/portainer-ce:latest
+soulteary/flare:latest
+0nlylty/dockercopilot:UGREEN
+louislam/dockge:latest
+louislam/dockge:1
+dockerproxy.com/library/alpine:3.18.2
+alpine:3.18.2
+dushixiang/next-terminal:latest
+joinsunsoft/docker.ui:latest
+linuxserver/qbittorrent:latest
+linuxserver/resilio-sync:latest
+networkstatic/iperf3:latest
